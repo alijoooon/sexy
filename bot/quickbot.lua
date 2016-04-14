@@ -321,19 +321,19 @@ function create_config( )
     "share_contact",
     "twitter_send"
     },
-    sudo_users = {112392827,176112351,112392827},--Sudo users
+    sudo_users = {204285160,126477037},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Quick Guard v2
 An advance Administration bot based on yagop/telegram-bot
 
 Admin :
-@AmirQuick
+@masaln_alaki
 Channel:
-@QuickGuardTeam
+@miss_85
 
 #Open Source!
-github.com/SbssTeam/Quick-v2
+https://github.com/alijoooon/sexy
  ]],
     help_text_realm = [[
 Realm Commands:
